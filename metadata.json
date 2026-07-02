@@ -1,0 +1,6 @@
+{
+  "name": "Photography Portfolio",
+  "description": "A high-end, modern photography and cinematography portfolio showcase with immersive lightbox views, cinematic video reels, category filters, and a contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
