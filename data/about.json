@@ -1,0 +1,37 @@
+{
+  "quote": "\"I believe that empty spaces are never truly empty. They hold light, time, and silent resonance.\"",
+  "bioParagraph1": "M. Bradescu is a Danish-born visual director and fine art photographer, focusing on brutalist architectural geometry, moody landscapes, and deep character portraits. Known for using minimal equipment and chasing natural ambient light, their work is curated globally for design publications and private galleries.",
+  "bioParagraph2": "By bridging high-definition still frames with fluid, slow-paced cinematography, Bradescu’s mission is to document places and moments that allow the observer to slow down and breathe in a noisy world.",
+  "locationLabel": "Bucharest, Romania",
+  "services": [
+    {
+      "title": "Architectural Documentation",
+      "desc": "High-end visual capture of built environments, focusing on geometry, light shadows, and structural scales."
+    },
+    {
+      "title": "Editorial & Character Portraits",
+      "desc": "Intimate, natural-light portraiture capturing deep, authentic expressions and human stories."
+    },
+    {
+      "title": "Cinematic Soundscapes & Video",
+      "desc": "Directing atmospheric commercials, brand manifestos, property walkthroughs, and visual mood films."
+    }
+  ],
+  "exhibitions": [
+    {
+      "year": "2026",
+      "title": "Urban Obscura Solo Show",
+      "venue": "Tokyo House of Photography"
+    },
+    {
+      "year": "2025",
+      "title": "Brutalist Echoes Group Exhibition",
+      "venue": "Danish Design Center, Copenhagen"
+    },
+    {
+      "year": "2024",
+      "title": "Misty Horizons: Landscapes",
+      "venue": "Alpine Fine Art Gallery, Munich"
+    }
+  ]
+}

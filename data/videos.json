@@ -1,0 +1,35 @@
+[
+  {
+    "id": "video-1",
+    "title": "Forest Stream in Sunbeam",
+    "videoUrl": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c022712505118a3efc211516fecf972b&profile_id=165&oauth2_token_id=57447761",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=600",
+    "duration": "0:30",
+    "description": "A dreamy, slow-motion exploration of pure morning sunlight piercing through ancient forest canopies and bouncing off a flowing mountain creek.",
+    "location": "Oregon, USA",
+    "category": "Cinematography Reel",
+    "aspectRatio": "16:9"
+  },
+  {
+    "id": "video-2",
+    "title": "Urban Pulse & Neon Rhythm",
+    "videoUrl": "https://player.vimeo.com/external/517602126.sd.mp4?s=d7e3da87224f8d975a6669931b6dfb2bf23e5a59&profile_id=165&oauth2_token_id=57447761",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=600",
+    "duration": "0:24",
+    "description": "Fast-paced, hyper-saturated urban cinematography exploring Tokyo at night, capturing train movements, dynamic reflections, and crowds.",
+    "location": "Tokyo, Japan",
+    "category": "Commercial Short",
+    "aspectRatio": "16:9"
+  },
+  {
+    "id": "video-3",
+    "title": "Minimalist Interior Stillness",
+    "videoUrl": "https://player.vimeo.com/external/434045526.sd.mp4?s=c1e1933c08b61c8c683b745a3038843c0b13cf76&profile_id=165&oauth2_token_id=57447761",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=600",
+    "duration": "0:15",
+    "description": "An elegant, architectural ambient film focused on clean lines, light shadows moving across a minimalist indoor space, and peaceful symmetry.",
+    "location": "Kyoto, Japan",
+    "category": "Fine Art Short",
+    "aspectRatio": "16:9"
+  }
+]
